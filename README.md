@@ -1,4 +1,4 @@
-<img width="250" src="./logo.svg" alt="Solidus logo">
+<img width="250" src="./logo.svg" alt="Solidus logo"> testing
 
 # Solidus
 
